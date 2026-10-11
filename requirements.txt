@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pytest
+httpx
+sqlalchemy[asyncio]>=2.0,<3.0
+aiosqlite
+alembic
+pydantic-settings
+python-dotenv
